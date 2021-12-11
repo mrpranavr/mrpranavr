@@ -1,4 +1,6 @@
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"></h1>
+![Test Image](https://github.com/mrpranavr/mrpranavr/blob/main/main%20banner.gif)
+
+<h1 align = 'center'>Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"></h1>
 
 ### Quick stats about me
 | Github Stats | Top Languages |
