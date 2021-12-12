@@ -1,23 +1,28 @@
 ![About me Image](https://github.com/mrpranavr/mrpranavr/blob/main/main%20banner.gif)
 
-<h1 align = 'center'>Hey there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> !</h1>
+<h1 align = 'center'><b>Hey there </b><img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> !</h1>
 
 <p align='center'>
  <b>I am a ML Practioner, Flutter Developer and a Front end Designer from India</b> 
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/pranav-r-2001/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width=5%/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:thepranavr@gmail.com?subject=Hey%20Pranav"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width=5%/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pranav-r-2001/">
+  <img alt="Pranav's LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="mailto:thepranavr@gmail.com?subject=Hey%20Pranav">
+  <img alt="Pranav's Gmail" width="50px" src="https://user-images.githubusercontent.com/88646272/145703582-4a76ec13-b7fc-4cc9-ad90-cb34bc5b7aee.png" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 </p>
 
-<hr>
+
 &nbsp;
 &nbsp;
 &nbsp;
 
-<h2 align="center"> 🔧 Skills & Tools: </h2>
+<h1 align="center">Skills & Tools: </h1>
 
 <p align="center">
   <a href="https://www.python.org/">
@@ -84,9 +89,14 @@
 <a href="https://github.com/mrpranavr/Project_Med_Skim">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpranavr&repo=Project_Med_Skim&theme=radical&show_owner=true&border_radius=10" />
 </a> -->
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-
-<h2 align="center"> Quick stats about me </h2>
+<h1 align="center"> Quick stats about me </h1>
 
 | Github Stats | Top Languages |
 | --- | --- |
