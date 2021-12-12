@@ -2,6 +2,17 @@
 
 <h1 align = 'center'>Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"></h1>
 
+<!-- Seperate repo designs -->
+<!-- <a href="https://github.com/mrpranavr/Transfer_learning_Food_vision_project">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpranavr&repo=Transfer_learning_Food_vision_project&theme=react&show_owner=true&border_radius=10" />
+</a>
+
+
+<a href="https://github.com/mrpranavr/Project_Med_Skim">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrpranavr&repo=Project_Med_Skim&theme=radical&show_owner=true&border_radius=10" />
+</a> -->
+
+
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
