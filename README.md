@@ -3,15 +3,17 @@
 <h1 align = 'center'><b>Hey there </b><img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> !</h1>
 
 <p align='center'>
- <b>I am a ML Practioner, Flutter Developer and a Front end Designer from India</b> 
+ <b>I am a ML Practioner, Flutter Developer and a Front end Designer from India</b><br>
+ 😃Love to create beautiful <b>UI designs</b> and innovative <b>Flutter apps</b><br>
+ 👩‍🎓I am currently learning more about <b>Tensorflow</b><br>
 </p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/pranav-r-2001/">
-  <img alt="Pranav's LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+  <img alt="Pranav's LinkedIn" width="50px" src="https://user-images.githubusercontent.com/88646272/145706922-34ea4acd-59fd-4ce1-843f-011b3a2d11d4.png" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="mailto:thepranavr@gmail.com?subject=Hey%20Pranav">
-  <img alt="Pranav's Gmail" width="50px" src="https://user-images.githubusercontent.com/88646272/145703582-4a76ec13-b7fc-4cc9-ad90-cb34bc5b7aee.png" />
+  <img alt="Pranav's Gmail" width="50px" src="https://user-images.githubusercontent.com/88646272/145706951-491e50ee-9509-49e0-9d20-cea00b2e5608.png" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
