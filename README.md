@@ -1,6 +1,6 @@
 ![About me Image](https://github.com/mrpranavr/mrpranavr/blob/main/main%20banner.gif)
 
-<h1 align = 'center'><b>Hey there </b><img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> !</h1>
+<h1 align = 'center'><b>Hey there 👋 !</b></h1>
 
 <p align='center'>
  <b>I am a ML Practioner, Flutter Developer and a Front end Designer from India</b><br>
