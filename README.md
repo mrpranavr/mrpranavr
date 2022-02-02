@@ -24,7 +24,7 @@
 &nbsp;
 &nbsp;
 
-<h1 align="center">Skills & Tools: </h1>
+<h1 align="center">Skills & Tools </h1>
 
 <p align="center">
   <a href="https://www.python.org/">
