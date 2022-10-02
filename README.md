@@ -4,8 +4,8 @@
 
 <p align='center'>
  <b>I am a ML Practioner, Flutter Developer and a Front end Designer from India</b><br>
- 😃Love to create beautiful <b>UI designs</b> and innovative <b>Flutter apps</b><br>
- 👩‍🎓I am currently learning more about <b>Tensorflow</b><br>
+ 😃Love to create beautiful <b>UI designs</b> and innovative <b>apps and websites</b><br>
+ 👩‍🎓I am currently learning more about <b>React.js</b><br>
 </p>
 
 <p align='center'>
