@@ -3,7 +3,7 @@
 <h1 align = 'center'><b>Hey there 👋 !</b></h1>
 
 <p align='center'>
- <b>I am a ML Practioner, Flutter Developer and a Front end Designer from India</b><br>
+ <b>I am a ML Practioner, Flutter Developer and a Web developer from India</b><br>
  😃Love to create beautiful <b>UI designs</b> and innovative <b>apps and websites</b><br>
  👩‍🎓I am currently learning more about <b>React.js</b><br>
 </p>
