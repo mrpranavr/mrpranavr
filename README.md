@@ -52,6 +52,9 @@
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/react-00599C?style=for-the-badge&logo=react&logoColor=white">
   </a>
+ <a href="https://threejs.org/">
+    <img src="https://img.shields.io/badge/threejs-2c4f7c?style=for-the-badge&logo=three.js&logoColor=white">
+  </a>
   <a href="https://www.blender.org/">
     <img src="https://img.shields.io/badge/blender-339933?style=for-the-badge&logo=blender&logoColor=white">
   </a>
@@ -65,10 +68,10 @@
   <a href="https://flutter.dev/">
     <img src="https://img.shields.io/badge/Flutter%20-4285F4?&style=for-the-badge&logo=flutter&logoColor=white">
   </a>
-  <a href="https://git-scm.com/">
+  <br>
+ <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
   </a>
-  <br>
   <a href="https://www.figma.com/">
     <img src="https://img.shields.io/badge/figma-61DAFB?&style=for-the-badge&logo=figma&logoColor=121212">
   </a>
