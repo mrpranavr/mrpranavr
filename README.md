@@ -70,11 +70,10 @@
    <a href="https://scikit-learn.org/stable/">
     <img src="https://img.shields.io/badge/scikit%20learn-000000?&style=for-the-badge&logo=scikit%20learn&logoColor=white">
   </a>
-
+  <br>
   <a href="https://flutter.dev/">
     <img src="https://img.shields.io/badge/Flutter%20-4285F4?&style=for-the-badge&logo=flutter&logoColor=white">
   </a>
-  <br>
  <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
   </a>
