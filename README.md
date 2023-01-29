@@ -48,15 +48,18 @@
   <a href="https://tailwindcss.com/">
     <img src="https://img.shields.io/badge/tailwindcss-1572B6?style=for-the-badge&logo=tailwindcss&logoColor=white">
   </a>
-  <br>
+   <br>
   <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a> 
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/react-00599C?style=for-the-badge&logo=react&logoColor=white">
   </a>
+ <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  </a>
  <a href="https://threejs.org/">
-    <img src="https://img.shields.io/badge/threejs-2c4f7c?style=for-the-badge&logo=three.js&logoColor=white">
+    <img src="https://img.shields.io/badge/three.js-2c4f7c?style=for-the-badge&logo=three.js&logoColor=white">
   </a>
   <a href="https://www.blender.org/">
     <img src="https://img.shields.io/badge/blender-339933?style=for-the-badge&logo=blender&logoColor=white">
