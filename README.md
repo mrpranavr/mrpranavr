@@ -108,9 +108,13 @@
 
 <h1 align="center"> Quick stats about me </h1>
 
+<p align="center">
+ 
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=mrpranavr&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Pranav's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpranavr&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=mrpranavr&theme=algolia&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+ 
+</p>
 
 &nbsp;
 &nbsp;
