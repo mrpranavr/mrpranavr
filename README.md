@@ -112,7 +112,7 @@
  
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=mrpranavr&theme=algolia&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+| ![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=mrpranavr&theme=rose_pine&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
  
 </p>
 
