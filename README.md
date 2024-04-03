@@ -3,9 +3,9 @@
 <h1 align = 'center'><b>Hey there 👋 !</b></h1>
 
 <p align='center'>
- <b>I am a ML Practioner, Flutter Developer and a Web developer from India</b><br>
- 😃Love to create beautiful <b>UI designs</b> and innovative <b>apps and websites</b><br>
- 👩‍🎓I am currently learning more about <b>React.js</b><br>
+ <b>I am a ML Practioner, Mobile Developer and a Web developer from India</b><br>
+ 😃Love to combine beautiful <b>UI designs</b> with innovative <b>apps and websites</b><br>
+ 👩‍🎓I am currently learning more about <b>iOS Development</b><br>
 </p>
 
 <p align='center'>
@@ -36,22 +36,22 @@
    <a href="https://dart.dev">
     <img src="https://img.shields.io/badge/dart-000000?&style=for-the-badge&logo=dart&logoColor=white">
   </a>
+   <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  </a> 
+   <a href="https://www.salesforce.com/in/">
+    <img src="https://img.shields.io/badge/Apex-ffffff?style=for-the-badge&logo=salesforce&logoColor=008DDA">
+  </a> 
+ <br>
   <a href="https://html.com/">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   </a>
   <a href="https://www.w3schools.com/css/">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   </a>
-    <a href="https://getbootstrap.com">
-    <img src="https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white">
-  </a>
   <a href="https://tailwindcss.com/">
     <img src="https://img.shields.io/badge/tailwindcss-1572B6?style=for-the-badge&logo=tailwindcss&logoColor=white">
   </a>
-   <br>
-  <a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  </a> 
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/react-00599C?style=for-the-badge&logo=react&logoColor=white">
   </a>
@@ -61,24 +61,39 @@
  <a href="https://threejs.org/">
     <img src="https://img.shields.io/badge/three.js-2c4f7c?style=for-the-badge&logo=three.js&logoColor=white">
   </a>
-  <a href="https://www.blender.org/">
-    <img src="https://img.shields.io/badge/blender-339933?style=for-the-badge&logo=blender&logoColor=white">
+ <br>
+ <a href="https://developer.apple.com/xcode/swiftui/">
+    <img src="https://img.shields.io/badge/Swift UI-E34F26?style=for-the-badge&logo=swift&logoColor=white">
   </a>
-  <a href="https://www.tensorflow.org/">
+ <a href="https://expo.dev">
+    <img src="https://img.shields.io/badge/React Native Expo-000000?style=for-the-badge&logo=expo&logoColor=white">
+  </a>
+   <a href="https://flutter.dev/">
+    <img src="https://img.shields.io/badge/Flutter%20-4285F4?&style=for-the-badge&logo=flutter&logoColor=white">
+  </a>
+ <br>
+ <a href="https://www.tensorflow.org/">
     <img src="https://img.shields.io/badge/Tensorflow%20-FF9800?&style=for-the-badge&logo=Tensorflow&logoColor=white">
   </a>
    <a href="https://scikit-learn.org/stable/">
     <img src="https://img.shields.io/badge/scikit%20learn-000000?&style=for-the-badge&logo=scikit%20learn&logoColor=white">
   </a>
-  <br>
-  <a href="https://flutter.dev/">
-    <img src="https://img.shields.io/badge/Flutter%20-4285F4?&style=for-the-badge&logo=flutter&logoColor=white">
+ <br>
+  <a href="https://www.blender.org/">
+    <img src="https://img.shields.io/badge/blender-339933?style=for-the-badge&logo=blender&logoColor=white">
   </a>
+  <a href="https://spline.design">
+    <img src="https://img.shields.io/badge/spline-7F27FF?style=for-the-badge&logo=spline&logoColor=white">
+  </a>
+ <a href="https://www.framer.com">
+    <img src="https://img.shields.io/badge/framer-333A73?style=for-the-badge&logo=framer&logoColor=white">
+  </a>
+   <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/figma-61DAFB?&style=for-the-badge&logo=figma&logoColor=121212">
+  </a>
+ <br>
  <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://img.shields.io/badge/figma-61DAFB?&style=for-the-badge&logo=figma&logoColor=121212">
   </a>
   <a href="https://firebase.google.com/">
     <img src="https://img.shields.io/badge/firebase-FF9800?&style=for-the-badge&logo=firebase&logoColor=white">
