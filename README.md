@@ -1,4 +1,4 @@
-![About me Image](https://github.com/mrpranavr/mrpranavr/blob/main/main%20banner.gif)
+![About me Image](https://github.com/mrpranavr/mrpranavr/blob/main/Profile%20banner.png)
 
 <h1 align = 'center'><b>Hey there 👋 !</b></h1>
 
