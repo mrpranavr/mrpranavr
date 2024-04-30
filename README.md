@@ -6,6 +6,7 @@
  <b>I am a ML Practioner, Mobile Developer and a Web developer from India</b><br>
  😃Love to combine beautiful <b>UI designs</b> with innovative <b>apps and websites</b><br>
  👩‍🎓I am currently learning more about <b>iOS Development</b><br>
+ Currently working on project <b>Spendific</b>
 </p>
 
 <p align='center'>
